@@ -1,7 +1,7 @@
 ####################################
 File Guide
 
-presentation.ipynb - Final report for the project. Contains the code, viz, explanations of the project
+final_notebook.ipynb - Final report for the project. Contains the code, viz, explanations of the project
 
 word2vec.fullmodel - Word vector created from spongebob dialogue. Can only open if you have package "gensim"
 
